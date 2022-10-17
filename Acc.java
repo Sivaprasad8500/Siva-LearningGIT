@@ -6,9 +6,11 @@ public class Account {
     public Account(String accNo, String accName) {
         this.accNo = accNo;
         this.accName = accName;
-        this.accType =  Bussiness;
-        this.accbrach = NRI;
+        this.accType = Saving;
     }
+
+}
+
 
     public String getAccNo() {
         return accNo;
