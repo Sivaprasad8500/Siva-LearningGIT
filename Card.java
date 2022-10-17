@@ -10,6 +10,10 @@ public class Card {
         this.cardType = cardType;
         this.expiry = expiry;
         this.account = account;
+        this.cardNum = cardNum;
+        this.cardType = cardType;
+        this.expiry = expiry;
+        this.account = account;
     }
 
     public String getCardNum() {
