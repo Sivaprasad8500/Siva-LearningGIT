@@ -7,6 +7,7 @@ public class Account {
         this.accNo = accNo;
         this.accName = accName;
         this.accType =  Bussiness;
+        this.accbrach = NRI;
     }
 
     public String getAccNo() {
