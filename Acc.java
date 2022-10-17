@@ -8,6 +8,9 @@ public class Account {
         this.accName = accName;
     }
 
+}
+
+
     public String getAccNo() {
         return accNo;
     }
