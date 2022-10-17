@@ -7,6 +7,11 @@ public class Account {
         this.accNo = accNo;
         this.accName = accName;
         this.accType = Saving;
+        this.accNo = accNo;
+        this.accName = accName;
+        this.accType = Saving;this.accNo = accNo;
+        this.accName = accName;
+        this.accType = Saving;
     }
 
 }
