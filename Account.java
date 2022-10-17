@@ -6,16 +6,7 @@ public class Account {
     public Account(String accNo, String accName) {
         this.accNo = accNo;
         this.accName = accName;
-        this.accType = Saving;
-        this.accNo = accNo;
-        this.accName = accName;
-        this.accType = Saving;this.accNo = accNo;
-        this.accName = accName;
-        this.accType = Saving;
     }
-
-}
-
 
     public String getAccNo() {
         return accNo;
@@ -24,8 +15,7 @@ public class Account {
     public void setAccNo(String accNo) {
         this.accNo = accNo;
     }
-    public void setAccNo(String accNo) {
-        this.accNo = accNo;
+
     public String getAccName() {
         return accName;
     }
